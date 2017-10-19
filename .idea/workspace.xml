@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef56ef99-5693-492a-b8f2-f2706ff0ab91" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/hello.php" afterPath="$PROJECT_DIR$/src/pages/hello.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/front.php" afterPath="$PROJECT_DIR$/web/front.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,6 +26,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="front.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/front.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-389">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <element signature="e#56#101#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="app.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/app.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,9 +62,9 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/front.php" />
         <option value="$PROJECT_DIR$/hello.php" />
-        <option value="$PROJECT_DIR$/web/front.php" />
         <option value="$PROJECT_DIR$/src/pages/hello.php" />
         <option value="$PROJECT_DIR$/src/pages/app.php" />
+        <option value="$PROJECT_DIR$/web/front.php" />
       </list>
     </option>
   </component>
@@ -159,12 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1508411926239</updated>
       <workItem from="1508411927661" duration="6042000" />
-      <workItem from="1508418248515" duration="1771000" />
+      <workItem from="1508418248515" duration="2191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7813000" />
+    <option name="totallyTimeSpent" value="8233000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -349,21 +360,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/front.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding>
-            <element signature="e#56#101#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/hello.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="1" column="64" lean-forward="true" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/front.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#56#101#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
